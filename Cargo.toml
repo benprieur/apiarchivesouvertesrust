@@ -7,7 +7,7 @@ license = "MIT OR Apache-2.0"
 keywords = ["HAL", "archives", "ouvertes"]
 categories = ["api-bindings"]
 readme = "README.md"
-authors = ["Benoît Prieur"]
+authors = ["Benoît Prieur <benprieur@users.noreply.github.com>"]
 repository = "https://github.com/benprieur/apiarchivesouvertesrust"
 homepage = "https://github.com/benprieur/apiarchivesouvertesrust"
 
